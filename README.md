@@ -23,6 +23,8 @@ C. Results:
 
 1. Fuzzy PID controller:
 
+![image](https://user-images.githubusercontent.com/69660620/116649745-3a257580-a9aa-11eb-8cad-466e26b372ec.png)
+
 ![image](https://user-images.githubusercontent.com/69660620/116649498-92a84300-a9a9-11eb-97dc-8a09450bae3a.png)
 
 ![image](https://user-images.githubusercontent.com/69660620/116649530-a5227c80-a9a9-11eb-8afb-62795eb966be.png)
