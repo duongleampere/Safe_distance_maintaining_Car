@@ -21,7 +21,13 @@ B. GUI matlab:
 
 C. Results:
 
-1. Fuzzy PID controller:
+1. PID controller:
+
+![image](https://user-images.githubusercontent.com/69660620/116666311-00159d00-a9c5-11eb-8534-d78dabf66c62.png)
+
+![image](https://user-images.githubusercontent.com/69660620/116666209-e70cec00-a9c4-11eb-8896-a3ba8149c865.png)
+
+2. Fuzzy PID controller:
 
 ![image](https://user-images.githubusercontent.com/69660620/116649745-3a257580-a9aa-11eb-8cad-466e26b372ec.png)
 
